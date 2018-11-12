@@ -1,0 +1,19 @@
+nav {
+  background-color: #333333;
+}
+
+li {
+  font-size: 20px;
+}
+
+.nav-link {
+  color: #cccccc;
+}
+
+.active {
+  color: #eeeeee;
+}
+
+a:hover {
+  color: #eeeeee;
+}
