@@ -10,7 +10,7 @@ li {
 }
 
 .nav-link {
-  color: #cccccc;
+  color: #bbbbbb;
 }
 
 .active {
@@ -28,10 +28,37 @@ a:hover {
   color: #eeeeee;
 }
 
+.cvbigblock {
+  background-color: #333333;
+  height: 800px;
+  margin-top: 10px;
+  color: #eeeeee;
+}
+
+.biggerblock {
+  background-color: #333333;
+  height: 1450px;
+  margin-top: 10px;
+  color: #eeeeee;
+}
+
 .imgblock {
   margin-top: 10px;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+  font-size: 50px;
+}
+
+#address {
+  font-style: italic;
+}
+
+#pagetitle {
+  text-align: left;
 }
