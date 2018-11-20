@@ -5,16 +5,21 @@ nav {
   background-color: #333333;
 }
 
-li {
-  font-size: 16px;
-}
-
 .nav-link {
   color: #bbbbbb;
+  font-size: 20px;
+  /*
+  border-left-width: 2px;
+  border-left-color: #bbbbbb;
+  border-left-style: solid;
+  */
 }
 
 .active {
   color: #eeeeee;
+  /*
+  border-left-color: #eeeeee;
+  */
 }
 
 a:hover {
@@ -25,20 +30,24 @@ a:hover {
   background-color: #333333;
   height: 650px;
   margin-top: 10px;
+  padding: 20px 30px 20px 30px;
   color: #eeeeee;
 }
 
 .cvbigblock {
   background-color: #333333;
-  height: 800px;
+  height: 810px;
   margin-top: 10px;
+  padding: 20px 30px 20px 30px;
   color: #eeeeee;
 }
 
+/*Background for the projects page.*/
 .biggerblock {
   background-color: #333333;
-  height: 1450px;
+  height: 1470px;
   margin-top: 10px;
+  padding: 20px 30px 20px 30px;
   color: #eeeeee;
 }
 
